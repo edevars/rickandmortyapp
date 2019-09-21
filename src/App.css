@@ -1,0 +1,5 @@
+.card{
+  width: 320px;
+  display: grid;
+  grid-template-rows: 320px 1fr;
+}
